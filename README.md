@@ -1,6 +1,6 @@
 # vimrc
 
-** * MAKE YOUR VIM AS COLORFUL AS IDE * **
+*** MAKE YOUR VIM AS COLORFUL AS IDE ***
 
 
 Why does it so cool?
@@ -9,5 +9,5 @@ Why does it so cool?
 2) useful aliases
 3) Matrix colorscheme 
 
-![] (https://github.com/yhetman/vimrc/tree/master/img/screenshot)
+![] (https://github.com/yhetman/vimrc/blob/master/img/screenshot)
 
