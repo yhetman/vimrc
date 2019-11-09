@@ -9,5 +9,5 @@ Why does it so cool?
 2) useful aliases
 3) Matrix colorscheme 
 
-![] (https://github.com/yhetman/vimrc/blob/master/img/screenshot)
+![](https://github.com/yhetman/vimrc/blob/master/img/screenshot.png)
 
