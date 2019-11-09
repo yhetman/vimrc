@@ -1,6 +1,6 @@
 # vimrc
 
-*** MAKE YOUR VIM AS COLORFUL AS IDE ***
+***MAKE YOUR VIM AS COLORFUL AS IDE***
 
 
 Why does it so cool?
