@@ -1,5 +1,7 @@
 # vimrc
 
+## vim configuration files
+
 ***MAKE YOUR VIM AS COLORFUL AS IDE***
 
 
